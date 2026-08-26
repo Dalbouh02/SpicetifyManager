@@ -7,7 +7,6 @@
 [![Downloads](https://img.shields.io/github/downloads/Dalbouh02/SpicetifyManager/total?style=flat&label=Downloads&color=1DB954)](https://github.com/Dalbouh02/SpicetifyManager/releases)
 [![Stars](https://img.shields.io/github/stars/Dalbouh02/SpicetifyManager?style=flat&label=Stars&color=1DB954)](https://github.com/Dalbouh02/SpicetifyManager/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/Dalbouh02/SpicetifyManager?style=flat&label=Last%20Update)](https://github.com/Dalbouh02/SpicetifyManager/commits/main)
-[![Issues](https://img.shields.io/github/issues/Dalbouh02/SpicetifyManager?style=flat&label=Issues)](https://github.com/Dalbouh02/SpicetifyManager/issues)
 
 PowerShell tool for installing, repairing, backing up, and uninstalling Spicetify and Spotify on Windows. Single `.ps1` file, WPF GUI plus console mode.
 
