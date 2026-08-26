@@ -1,0 +1,28 @@
+# PowerShell
+*.ps1.bak
+*.ps1.old
+*.ps1.v*.bak
+
+# Local state
+config.json
+stats.json
+windowstate.json
+__state/
+
+# Crash / log files
+SpicetifyManager_CRASH_*.log
+SpicetifyManager_*.log
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Build artifacts
+bin/
+obj/
